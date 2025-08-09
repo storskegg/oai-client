@@ -10,6 +10,7 @@ The goal for this project is to learn or improve upon the following:
 ## Steps
 
 - [x] Write my "Hello World" in Leptos
+- [ ] Echo: Client->Server->Client
 - [ ] Send AI queries to the backend that will be handled by `rig`, and respond appropriately
 - [ ] For fun and jankiness, add a Llama-based backend, with its respective page, and have it stream text responses back
       to the front end. Llama can be...shitty...but it's kinda funny to see how long it'll ramble, and `kolosm` allows
